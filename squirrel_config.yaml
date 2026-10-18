@@ -36,6 +36,9 @@ app_opt:
   app_options/md.obsidian:
     ascii_mode: true
     vim_mode: true
+  app_options/so.stencil.tern:
+    vim_mode: true
+    ascii_mode: true
   app_options/ru.keepcoder.Telegram:
     inline: true
 
