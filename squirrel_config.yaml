@@ -31,7 +31,7 @@ app_opt:
   app_options/com.github.wez.wezterm:
     vim_mode: true
     ascii_mode: true
-  app_options/com.raycast.macos:
+  app_options/com.tinycast.app:
     ascii_mode: true
   app_options/md.obsidian:
     ascii_mode: true
