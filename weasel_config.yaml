@@ -55,7 +55,8 @@ app_opt:
   app_options/Obsidian.exe/vim_mode: true
   app_options/noctty.exe/vim_mode: true
   app_options/noctty.exe/ascii_mode: true
-  app_options/tern.exe/vim_mode: true
+  app_options/rex.exe/vim_mode: true
+  app_options/rex.exe/ascii_mode: true
 
 preset_color_schemes:
   dark_color:
